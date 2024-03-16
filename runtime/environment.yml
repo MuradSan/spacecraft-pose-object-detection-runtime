@@ -16,7 +16,7 @@ dependencies:
   - pip=24.0
   - pyarrow=15.0.0
   - pydantic=2.6.1
-  - opencv=4.9.0
+  - opencv=4.7.0
   - openvino=2023.2.0
   - pytest=8.0.0
   - python=3.11.7
@@ -32,3 +32,4 @@ dependencies:
   - ultralytics=8.1.11
   - tqdm=4.66.2
   - xgboost=2.0.3
+  - onurkoc = 1.8
